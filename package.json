@@ -1,0 +1,18 @@
+{
+  "name": "Google AI",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^0.7.0",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.27.0"
+  },
+  "scripts": {
+    "start": "node AI.js"
+  }
+}
